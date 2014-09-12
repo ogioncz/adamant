@@ -12,4 +12,6 @@ Here is an example of queries that the engine would be able to answer:
 * Which newspaper issues featured Cadence?
 * What games could you play on Jul 21, 2009?
 
+Even more importantly this project can be utilised as central fact repository for wiki – for example item release history and catalogue contents can both originate from this project.
+
 This project isn’t achievable by a person alone so building a community will be required.
